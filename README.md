@@ -5,7 +5,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ![](https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif?cid=790b7611qx5autrpi0jfl4vqjxveblfqtlehofr1k3pww7gy&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
-Computer Science Student
 ------------------------
 
 I'm currently a computer science student interested in learning new technologies in the field of AI & ML.
