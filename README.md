@@ -13,8 +13,7 @@ I'm currently a computer science student interested in learning new technologies
 * 🧠  I'm learning Advance Python And JavaScript
 * 💖  I'm Focusing on Machine Learning and Artificial Intelligence
 * 🤝  I'm open to collaborating on Web Apps
-* ⚡  I'm A Dr.Strange, but you don't know
-
+* ⚡ Technology Freak
 ### Skills
 
 <p align="left">
