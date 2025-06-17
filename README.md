@@ -28,6 +28,9 @@ I'm currently a computer science student interested in learning new technologies
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/PranjalDby"><img src="https://github-readme-stats.vercel.app/api?username=PranjalDby&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PranjalDby's GitHub stats" /></a>
+<!--<a href="http://www.github.com/PranjalDby"><img src="https://github-readme-stats.vercel.app/api?username=PranjalDby&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="PranjalDby's GitHub stats" /></a>-->
 
-<a href="https://github.com/PranjalDby" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalDby&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![pranjaldby's Stats](https://github-readme-stats.vercel.app/api?username=pranjaldby&theme=vue-dark&show_icons=true&hide_border=false&count_private=false)
+<!--<a href="https://github.com/PranjalDby" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalDby&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>-->
+![pranjaldby's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pranjaldby&theme=vue-dark&hide_border=false)
+![pranjaldby's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaldby&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)
