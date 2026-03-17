@@ -60,16 +60,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjaldby&layout=compact&theme=tokyonight&hide_border=true" width="50%"/>
 </p>
 
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranjaldby&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
 ## 📌 Philosophy
 
 > **"A model isn’t valuable until it performs reliably in production."**
@@ -92,10 +82,4 @@
   <a href="https://www.buymeacoffee.com/pranjaldby11">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=pranjaldby&icon=5&color=6"/>
 </p>
