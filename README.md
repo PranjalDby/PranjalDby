@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pranjaldby&theme=tokyonight&hide_border=true&show_icons=true" width="48%"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pranjaldby&theme=tokyonight&hide_border=true" width="48%"/>
+  <!-- <img src="https://nirzak-streak-stats.vercel.app/?user=pranjaldby&theme=tokyonight&hide_border=true" width="48%"/> -->
 </p>
 
 <p align="center">
